@@ -22,11 +22,9 @@ My next goal is to earn more advanced professional certifications with practical
 
 ## Certifications
 
-```text
-CRTA      Red Team Analyst                 CyberWarFare Labs
-Web-RTA   Web Red Team Analyst             CyberWarFare Labs
-AD-RTS    Active Directory Red Team        CyberWarFare Labs
-```
+- **CRTA** — Red Team Analyst · CyberWarFare Labs
+- **Web-RTA** — Web Red Team Analyst · CyberWarFare Labs
+- **AD-RTS** — Active Directory Red Team · CyberWarFare Labs
 
 ## Skill Map
 
