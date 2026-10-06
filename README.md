@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ferecovilkin/ferecovilkin/5286370e23cbf69fda1951c92b4e15b06003ae8d/assets/hacker-banner.svg" width="100%" alt="Offensive Security — Ilkin Farajov. Animated Matrix terminal: server, web application and Active Directory pentesting." />
+  <img src="https://raw.githubusercontent.com/ferecovilkin/ferecovilkin/6baffb14bc6e166bbb9adcd486e13afdca8a796e/assets/serious-terminal.svg" width="100%" alt="Ilkin Farajov — minimal black and green terminal: server, web and Active Directory pentesting; CRTA, Web-RTA and AD-RTS." />
 </div>
 
 ## Who am I
