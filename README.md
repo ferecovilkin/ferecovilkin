@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ferecovilkin/ferecovilkin/eb7930abba6d850820c14d2b4907fd53d91ae6c3/assets/serious-terminal.svg" width="100%" alt="Ilkin Farajov — Linux terminal with sequential command typing, grey output and muted green prompts." />
+  <img src="https://raw.githubusercontent.com/ferecovilkin/ferecovilkin/c4823079b1d88eca5278e439f27f862ff134bd3c/assets/serious-terminal.svg" width="100%" alt="Ilkin Farajov — Kali terminal with ilkin@kali prompts and sequential command typing." />
 </div>
 
 ## Who am I
