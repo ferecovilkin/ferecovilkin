@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ferecovilkin/ferecovilkin/6baffb14bc6e166bbb9adcd486e13afdca8a796e/assets/serious-terminal.svg" width="100%" alt="Ilkin Farajov — minimal black and green terminal: server, web and Active Directory pentesting; CRTA, Web-RTA and AD-RTS." />
+  <img src="https://raw.githubusercontent.com/ferecovilkin/ferecovilkin/eb7930abba6d850820c14d2b4907fd53d91ae6c3/assets/serious-terminal.svg" width="100%" alt="Ilkin Farajov — Linux terminal with sequential command typing, grey output and muted green prompts." />
 </div>
 
 ## Who am I
