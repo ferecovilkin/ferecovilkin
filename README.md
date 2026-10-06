@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/terminal-banner.svg" width="100%" alt="Ilkin Farajov — terminal introduction: server, web and Active Directory pentesting; CRTA, Web-RTA and AD-RTS" />
+  <img src="https://raw.githubusercontent.com/ferecovilkin/ferecovilkin/5286370e23cbf69fda1951c92b4e15b06003ae8d/assets/hacker-banner.svg" width="100%" alt="Offensive Security — Ilkin Farajov. Animated Matrix terminal: server, web application and Active Directory pentesting." />
 </div>
 
 ## Who am I
