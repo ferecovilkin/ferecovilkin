@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=55&lines=Penetration+Tester+%7C+Red+Teamer;Web+Application+Pentesting;Active+Directory+Pentesting;Server+Pentesting;CRTA+%7C+Web-RTA+%7C+AD-RTS" alt="Penetration Tester and Red Teamer — Server, Web Application and Active Directory Pentesting" />
+  <img src="assets/terminal-banner.svg" width="100%" alt="Ilkin Farajov — terminal introduction: server, web and Active Directory pentesting; CRTA, Web-RTA and AD-RTS" />
 </div>
 
 ## Who am I
