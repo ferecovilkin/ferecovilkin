@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-labelledby="title desc">
+<title id="title">Ilkin Farajov — penetration testing terminal</title>
+<desc id="desc">Minimal black terminal with muted green text listing Ilkin Farajov's penetration testing focus and CyberWarFare Labs certifications. Only the final cursor blinks.</desc>
+<rect x="1" y="1" width="958" height="298" rx="5" fill="#000000" stroke="#252b27"/>
+<path d="M1 34h958" stroke="#1b211d"/>
+<g font-family="'DejaVu Sans Mono', Consolas, monospace">
+<text x="28" y="23" font-size="12" fill="#769580">ferecovilkin — bash</text>
+<text x="932" y="23" font-size="11" text-anchor="end" fill="#769580">~</text>
+<g font-size="16">
+<text x="28" y="65" fill="#86c69a">root@kali:~# <tspan fill="#a2bda9">whoami</tspan></text>
+<text x="28" y="88" fill="#a2bda9">İlkin Fərəcov — Penetration Tester | Red Teamer</text>
+<text x="28" y="123" fill="#86c69a">root@kali:~# <tspan fill="#a2bda9">cat scope.txt</tspan></text>
+<g fill="#a2bda9">
+<text x="28" y="146">Server Pentesting</text>
+<text x="28" y="168">Web Application Pentesting</text>
+<text x="28" y="190">Active Directory &amp; Red Teaming</text>
+</g>
+<text x="28" y="225" fill="#86c69a">root@kali:~# <tspan fill="#a2bda9">cat certifications.txt</tspan></text>
+<text x="28" y="248" fill="#a2bda9">CRTA / Web-RTA / AD-RTS — CyberWarFare Labs</text>
+<text x="28" y="281" fill="#86c69a">root@kali:~#</text>
+</g></g>
+<rect x="151" y="267" width="8" height="16" fill="#86c69a"><animate attributeName="opacity" values="1;0" dur="1.2s" calcMode="discrete" repeatCount="indefinite"/></rect>
+</svg>
