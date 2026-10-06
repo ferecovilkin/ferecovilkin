@@ -1,5 +1,7 @@
 # İlkin Fərəcov
-**Penetration Tester | Red Teamer**
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=55&lines=Penetration+Tester+%7C+Red+Teamer;Server+%26+Web+Application+Pentesting;Active+Directory+%7C+Offensive+Security;CRTA+%7C+Web-RTA+%7C+AD-RTS" alt="Penetration Tester and Red Teamer — Server, Web Application and Active Directory Pentesting" />
+</div>
 
 ## Who am I?
 
